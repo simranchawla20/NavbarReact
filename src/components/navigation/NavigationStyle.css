@@ -1,0 +1,20 @@
+.Navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding:5px;
+    background-color: rgba(242, 233, 228, 1);
+    margin: 20px 70px;
+    align-items: center;
+    /* height: 53.58271408081055px; */
+    width: 1213px;
+    
+
+}
+.Navbar>div{
+    flex: 4;
+}
+.inline{
+    display: inline-block;
+    cursor:pointer;
+}

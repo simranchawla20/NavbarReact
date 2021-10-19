@@ -1,0 +1,17 @@
+.active{
+  border-bottom: 4px solid black;
+}
+.disabled{
+    border-bottom: 4px solid white;
+}
+
+.content{
+   margin-bottom: 5px;
+   padding-left: 35px;
+}
+.marginLeft{
+  margin-left: 7px;
+}
+svg[data-icon="plane"]{
+  transform:rotate(-45deg)
+}
